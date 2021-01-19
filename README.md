@@ -22,3 +22,10 @@ A custom function node that was converted from [a Shadertoy sketch].
 This Shadertoy sketch was created by [rigel] and shared under CC-BY-4.0.
 
 [rigel]: https://www.shadertoy.com/user/rigel
+
+Mandelbrot
+----------
+
+![gif](https://i.imgur.com/tf3G0Gg.gif)
+
+A simple visualization of the Mandelbrot set with a custom function node.
